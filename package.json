@@ -1,0 +1,27 @@
+{
+  "name": "crud-operations-in-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qazizohaibali/CRUD-Operations-in-Express.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qazizohaibali/CRUD-Operations-in-Express.js/issues"
+  },
+  "homepage": "https://github.com/qazizohaibali/CRUD-Operations-in-Express.js#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
